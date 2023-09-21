@@ -1,0 +1,14 @@
+.greating-container {
+    width: 100%;
+    background: linear-gradient(#fc8c8c, #e9e16d, #ffc0cb);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .greating-container > h1 {
+    font-size: 3.5rem;
+    text-align: center;
+    line-height: 6rem;
+    text-transform: capitalize;
+  }

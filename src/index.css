@@ -1,0 +1,15 @@
+/* Reset Css */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+html {
+  font-size: 62.5%; /* 1rem is equal to 10px */
+}
+
+body {
+  overflow-x: hidden;
+}
